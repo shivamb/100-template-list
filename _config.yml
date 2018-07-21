@@ -16,9 +16,11 @@
 title: EasyLauncher Site Templates
 email: sam@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  EasyLauncher Site Templates
+  For demonstration purpose only
 github:
   is_project_page: false
+show_downloads: false
+
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://sites.easylauncher.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shivambofficial
@@ -29,6 +31,8 @@ github_username:  shivamb
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+
+google_analytics: UA-122699710-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
