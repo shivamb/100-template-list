@@ -17,6 +17,8 @@ title: EasyLauncher Site Templates
 email: sam@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   EasyLauncher Site Templates
+github:
+  is_project_page: false
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://sites.easylauncher.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shivambofficial
